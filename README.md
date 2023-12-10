@@ -7,7 +7,7 @@
 
 > The movie search and view application using themoviedb.
 
-### ✨ [Demo](https://dashing-caramel-6c63e2.netlify.app/)
+### ✨ [Demo](https://joyful-klepon-fb3571.netlify.app/)
 
 ## Install
 
